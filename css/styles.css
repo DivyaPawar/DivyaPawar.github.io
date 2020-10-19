@@ -10100,7 +10100,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #39A7ED;
+  background-color: #7D8A93 !important;
 }
 
 .dev-icons {
